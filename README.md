@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="/uploads/e24902f1e160c77732f696262065f562/KakaoTalk_20220819_010849865.png" alt="TerasStudy" />
+  <img src="assets/logo/Teras_logo_home.png" alt="logo" />
   <br />
   <h1>테라스처럼 편한 학교</h1>
   <br />
@@ -12,11 +12,9 @@
 2. [**기술 스택**](#2)
 3. [**시스템 아키텍처**](#3)
 4. [**주요기능 및 데모영상**](#4)
-5. [**UCC 보러가기**](#5)
-6. [**협업 관리**](#6)
-7. [**개발 멤버 소개**](#7)
-8. [**프로젝트 기간**](#8)
-9. [**프로젝트 관련 문서**](#9)
+5. [**개발 멤버 소개**](#5)
+6. [**프로젝트 기간**](#6)
+7. [**프로젝트 관련 문서**](#7)
 
 <br/>
 
@@ -24,7 +22,7 @@
 
 ## 💡 서비스 소개
 
-### 메가스터디보다 뛰어난 테라스 스터디와 함께하세요.
+### 온라인 수업, 테라스 스터디와 함께하세요!
 
 > 학교에 가지 않고 온라인으로 수업을 듣는 시대가 왔습니다. <br />
 코로나19로 비대면 수업들이 이제 일상이 되어버렸습니다. <br />
@@ -37,25 +35,41 @@
 
 ## 🛠️ 기술 스택
 
-<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+#### Communication Tool
 
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=NGINX&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=Node.js&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+#### Development Tool
 
-<br>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <br/>
+> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+> <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+> <img src="https://img.shields.io/badge/mysql_workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+#### FrontEnd
+
+> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+
+#### BackEnd
+
+> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+#### Server
+
+> <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+> <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+
+<br/>
+<br/>
 
 <details><summary> <b> 상세 기술스택 및 버전</b> </summary>
 
@@ -105,12 +119,12 @@
 
 |                              시스템 구성                           |
 | :------------------------------------------------------------------------------: |
-| !![image](/uploads/5f3932fcd483bf2c197b873dd464e674/image.png)(#) |
+| ![SA](/assets/etc/SA.png) |
 
 
 |                              디렉토리 구조                       |
 | :------------------------------------------------------------------------------: |
-| 프론트엔드![image](/uploads/565caa25b92abc38029d17974c064b10/bandicam_2022-08-19_01-43-56-589.jpg) 백엔드![image](/uploads/f31e4ca4f6f35ba8544b0f4616713308/bandicam_2022-08-19_01-49-31-508.jpg) |
+| 프론트엔드![FD](/assets/etc/FD.jpg) 백엔드![BD](/assets/etc/BD.jpg) |
 
 <br />
 
@@ -135,11 +149,11 @@
 
 |                              온라인 수업                                      |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/a5a8c8938025d96533d3dc791b17fd8d/온라인수업.gif" alt="온라인수업" />                |
+|  <img src="/assets/gif/onlineclass.gif" alt="onlineclass" />                |
 
 |                              스터디룸                                      |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/4dde8bf0284cace81f9590af96cf96b5/스터디룸.gif" alt="스터디룸" />                |
+|  <img src="/assets/gif/studyroom.gif" alt="스터디룸" />                |
 
 
 ### 공지사항
@@ -149,11 +163,11 @@
 
 |                              공지사항(선생님)                  |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/514f4fc92d814fcd4625e661751d3af6/공지사항선생님.gif" alt="공지사항(선생님)" />  |
+|  <img src="/assets/gif/notice_teacher.gif" alt="notice_teacher" />  |
 
 |                              공지사항(학생)                  |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/cafc5272f63c5b18d1472f55aa64fcd8/공지사항학생.gif" alt="공지사항(학생)" />  |
+|  <img src="/assets/gif/notice_student.gif" alt="notice_student" />  |
     
 ### 과제
 - 선생님은 자신의 과목에 과제를 원하는 기간을 설정하여 올릴 수 있습니다.
@@ -162,11 +176,11 @@
 
 |                              과제(선생님)                     |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/c968df19132ebf47d80bcdc3a0ccc1ec/과제선생님.gif" alt="과제(선생님)" />  |
+|  <img src="/assets/gif/homework_teacher.gif" alt="homework_teacher" />  |
 
 |                              과제(학생)                      |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/e7968eee8623ab2dfdcb8cac9221ef34/과제학생.gif" alt="과제(학생)" />  |
+|  <img src="/assets/gif/homework_student.gif" alt="homework_student" />  |
 
 ### 캘린더/우리반보기 기타등등
 - 캘린더를 통하여 각각 날짜의 행사를 확인할 수 있습니다.
@@ -174,27 +188,15 @@
 
 |                              기타등등                    |
 | :---------------------------------------------------------------------------: |
-|  <img src="/uploads/954a56669881cd23004c5cb46c6947e6/기타등등.gif" alt="기타등등" />  |
+|  <img src="/assets/gif/etc.gif" alt="etc" />  |
 
 <br/>
 
 <div id="5"></div>
 
-## 🎥 [UCC 보러가기](#) 
-
 <br />
 
 <div id="6"></div>
-
-## 👥 협업 관리 
-
-|                            Jira BurnDown Chart                      |
-| :---------------------------------------------------------------------------: |
-|  <img src="/uploads/0c13df10395b2c4b1745acd68aab440e/번다운차트.PNG" />  |
-
-|                            Notion                      |
-| :---------------------------------------------------------------------------: |
-|  <img src="/uploads/edf6cea8ba6f3d7e652e5af3acaebd42/bandicam_2022-08-19_01-14-58-548.jpg" /><img src="/uploads/18114ff56dc79137c47e068fe84c14a5/bandicam_2022-08-19_01-14-23-188.jpg" />  |
 
 <br />
 
@@ -204,17 +206,17 @@
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/PowerBBear">
-            <img src="/uploads/b0ab56b839be9246253b4053b33b373c/민성.jpg" width="140px" /> <br><br> 👑 김민성 <br>(Front-End) </a> <br></td>
+            <img src="assets/member/avatar1.png" width="140px" /> <br><br> 👑 김민성 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/JunPark364">
-            <img src="/uploads/62c8c647a9a7f0457f513f1e8b9c17fe/영준.jpg" width="140px" /> <br><br> 🙂 박영준 <br>(Front-End) </a> <br></td>
+            <img src="assets/member/avatar2.png" width="140px" /> <br><br> 🙂 박영준 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/pch8349">
-            <img src="/uploads/bde99e85c40adf4a84d8a4b12a4e864b/찬혁.jpg" width="140px" /> <br><br> 😆 박찬혁 <br>(Front-End) </a> <br></td>
+            <img src="assets/member/avatar4.png" width="140px" /> <br><br> 😆 박찬혁 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/SilverLight96">
-            <img src="/uploads/b4261571e054933c2178a03f13e19f2d/경은.jpg" width="140px" /> <br><br> 😁 강경은 <br>(Back-End) </a> <br></td>
+            <img src="assets/member/avatar5.png" width="140px" /> <br><br> 😁 강경은 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/heunhanireum">
-            <img src="/uploads/ae19dde3e26a774bcef77adcc154f725/민지.jpg" width="140px" /> <br><br> 🙄 김민지 <br>(Back-End) </a> <br></td>
+            <img src="assets/member/avatar3.png" width="140px" /> <br><br> 🙄 김민지 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/kkh9700">
-            <img src="/uploads/8a957c23971bab7ac9f3fec55e64c918/경환.jpg" width="140px" /> <br><br> 😶 김경환 <br>(Back-End) </a> <br></td>
+            <img src="assets/member/avatar6.png" width="140px" /> <br><br> 😶 김경환 <br>(Back-End) </a> <br></td>
     </tr>
     <tr>
         <td align="center">UI/UX<br/>React<br/>DB<br/>Infra<br/></td>
@@ -248,4 +250,4 @@
 | ERD | [ERD 바로가기](https://drive.google.com/file/d/1PmUqEjwf3GyiuHPqTALUJH6emQohCJ5I/view?usp=sharing) |
 | 빌드/배포 | [빌드/배포 바로가기](/exec/배포환경.md) |
 | 시연 시나리오 | [시연 시나리오 바로가기](/exec/시연시나리오_대본.docx) |
-| 발표자료 | [발표자료 바로가기](/exec/서울_7반_A706_발표자료.pdf)) |
+| 발표자료 | [발표자료 바로가기](/exec/서울_7반_A706_발표자료.pdf) |
