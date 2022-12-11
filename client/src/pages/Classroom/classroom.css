@@ -1,0 +1,65 @@
+.classroomFelxContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.classroomGridContainer {
+  display: grid;
+  grid-template-rows: 100px 50px 900px;
+  margin-top: 20px;
+}
+
+.headerContainer {
+  display: grid;
+  grid-template-columns: 350px 1000px;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+.roleTabContainer {
+  display: grid;
+  grid-template-columns: 900px 450px;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+.classroomMainContainer {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  display: grid;
+  grid-template-rows: 750px 100px;
+}
+
+.subjectBoxContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+.subjectBox {
+  width: 290px;
+  height: 80px;
+  border-radius: 20px;
+  background-color: rgb(40, 164, 71);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.goalBoxContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+.goalBox {
+  display: flex;
+  align-items: center;
+}

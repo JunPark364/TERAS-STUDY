@@ -1,0 +1,194 @@
+.mainFlexContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.mainGridContainer {
+  display: grid;
+  grid-template-columns: 350px 1000px;
+  grid-template-rows: 150px 800px;
+  margin-top: 20px;
+}
+
+.headerGridContainer {
+  display: grid;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-template-columns: 400px 950px;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+.navBar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row-reverse;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+.logoutButtonContainer {
+  position: relative;
+  margin-right: 50px;
+}
+
+.logoutButton {
+  display: block;
+  width: 130px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  color: #66c560;
+  background-color: #f4f4f4;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.35s;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+  border: 3px solid transparent;
+  position: absolute;
+  transform: rotate(45deg);
+  right: 0;
+  top: 0;
+  z-index: -1;
+  transition: all 0.35s;
+}
+
+.icon svg {
+  width: 20px;
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 10px);
+  transform: rotate(-45deg);
+  fill: #66c560;
+  transition: all 0.35s;
+}
+
+.logoutButton:hover {
+  width: 150px;
+  background: transparent;
+  border: none;
+  color: #66c560;
+  cursor: pointer;
+}
+
+.logoutButton:hover + .icon {
+  border: 3px solid #66c560;
+  right: -20%;
+}
+
+.sideBarGridContainer {
+  display: grid;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-template-rows: 300px 500px;
+}
+
+.profileContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  transition: transform 0.2s;
+}
+
+.timeTableFlexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+.timeTableContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 290px;
+  height: 450px;
+  border-radius: 15px;
+  background-color: #7ccc77;
+}
+
+.dashBoardFlexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+.dashBoardContainer {
+  display: grid;
+  grid-template-rows: 50px 700px;
+  width: 980px;
+  height: 750px;
+}
+
+.navTabContainer {
+  display: flex;
+  align-items: stretch;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+.componentContainer {
+  text-align: center;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.navTabButton {
+  color: white;
+  flex-grow: 1;
+  background-color: #7ccc77;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-width: 0 thin;
+  border-color: #f4f4f4;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  padding: 12px;
+  filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07))
+    drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
+}
+
+.selectedTab {
+  background-color: white;
+  border-color: white;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  display: box !important;
+  box-shadow: 5px !important;
+  filter: none;
+  color: black;
+  font-size: 18px;
+}
