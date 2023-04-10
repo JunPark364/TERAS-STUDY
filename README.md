@@ -206,25 +206,17 @@
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/PowerBBear">
-            <img src="assets/member/avatar1.png" width="140px" /> <br><br> 👑 김민성 <br>(Front-End) </a> <br></td>
+            <img src="assets/member/avatar1.png" width="140px" /> <br><br> 👑 김민성 <br> </td>
         <td height="140px" align="center"> <a href="https://github.com/JunPark364">
-            <img src="assets/member/avatar2.png" width="140px" /> <br><br> 🙂 박영준 <br>(Front-End) </a> <br></td>
+            <img src="assets/member/avatar2.png" width="140px" /> <br><br> 🙂 박영준 <br> </td>
         <td height="140px" align="center"> <a href="https://github.com/pch8349">
-            <img src="assets/member/avatar4.png" width="140px" /> <br><br> 😆 박찬혁 <br>(Front-End) </a> <br></td>
+            <img src="assets/member/avatar4.png" width="140px" /> <br><br> 😆 박찬혁 <br> </td>
         <td height="140px" align="center"> <a href="https://github.com/SilverLight96">
-            <img src="assets/member/avatar5.png" width="140px" /> <br><br> 😁 강경은 <br>(Back-End) </a> <br></td>
+            <img src="assets/member/avatar5.png" width="140px" /> <br><br> 😁 강경은 <br> </td>
         <td height="140px" align="center"> <a href="https://github.com/heunhanireum">
-            <img src="assets/member/avatar3.png" width="140px" /> <br><br> 🙄 김민지 <br>(Back-End) </a> <br></td>
+            <img src="assets/member/avatar3.png" width="140px" /> <br><br> 🙄 김민지 <br> </td>
         <td height="140px" align="center"> <a href="https://github.com/kkh9700">
-            <img src="assets/member/avatar6.png" width="140px" /> <br><br> 😶 김경환 <br>(Back-End) </a> <br></td>
-    </tr>
-    <tr>
-        <td align="center">UI/UX<br/>React<br/>DB<br/>Infra<br/></td>
-        <td align="center">UI/UX<br/>React<br/>WebRTC</td>
-        <td align="center">UI/UX<br/>React</td>
-        <td align="center">REST API<br/>WebRTC</td>
-        <td align="center">REST API<br/>CI/CD<br/></td>
-        <td align="center">REST API<br/>DB<br/>S3<br/>Infra<br/></td>
+            <img src="assets/member/avatar6.png" width="140px" /> <br><br> 😶 김경환 <br> </td>
     </tr>
 </table>
 
